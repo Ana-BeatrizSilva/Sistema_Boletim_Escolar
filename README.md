@@ -1,4 +1,4 @@
-# Sistema de Boletim Escolar
+# Sistema de Avaliação Acadêmica 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -8,7 +8,7 @@
 ---
 ## Sobre o Projeto
 
-**Sistema de Boletim Escolar** é uma aplicação desenvolvida em Python para automatizar o cadastro de alunos, o cálculo de médias e a geração de relatórios acadêmicos.
+**Sistema de AvaliaçãoAcadêmica** é uma aplicação desenvolvida em Python para automatizar o cadastro de alunos, o cálculo de médias e a geração de relatórios acadêmicos.
 
 O sistema permite registrar múltiplos alunos, armazenar suas notas, calcular automaticamente as médias finais e classificar cada estudante de acordo com seu desempenho acadêmico.
 
